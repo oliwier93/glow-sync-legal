@@ -6,7 +6,7 @@ Public legal pages for **GlowSync**, published by Oliwier Baran.
 
 The public privacy policy is served from `index.html` through GitHub Pages.
 
-Privacy contact: baio.software.pl@gmail.com
+Privacy contact: oliwier.baran@icloud.com
 
 ## Publishing with GitHub Pages
 
